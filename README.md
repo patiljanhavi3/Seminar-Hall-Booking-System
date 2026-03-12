@@ -45,23 +45,6 @@ Bookings Table
 
 ![Booking Page](screenshots/booking.png)
 
-## Installation
-
-1. Install XAMPP
-2. Clone repository
-3. Move project to:
-
-C:\xampp\htdocs
-
-4. Import database:
-
-database/seminar_booking.sql
-
-5. Start Apache and MySQL
-
-6. Open:
-
-http://localhost/mmcoe
 
 ## Future Improvements
 
